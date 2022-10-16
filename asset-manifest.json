@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/danfilm/static/css/main.e50ea425.css",
+    "main.js": "/danfilm/static/js/main.27b3e387.js",
+    "static/js/787.dda381d5.chunk.js": "/danfilm/static/js/787.dda381d5.chunk.js",
+    "static/media/Bioskop.png": "/danfilm/static/media/Bioskop.7b3640f05ea746bf6821.png",
+    "static/media/canter.jfif": "/danfilm/static/media/canter.158ed4ab29f374d3b6b7.jfif",
+    "static/media/avatar.jpeg": "/danfilm/static/media/avatar.927a20494592b8eb7212.jpeg",
+    "static/media/mumun.jpg": "/danfilm/static/media/mumun.a7da7e457216c57de44b.jpg",
+    "static/media/kkn.jpg": "/danfilm/static/media/kkn.d2061f65bef844f85676.jpg",
+    "static/media/benJordy.jpg": "/danfilm/static/media/benJordy.c6ba1d214e5fd67c84cf.jpg",
+    "index.html": "/danfilm/index.html",
+    "main.e50ea425.css.map": "/danfilm/static/css/main.e50ea425.css.map",
+    "main.27b3e387.js.map": "/danfilm/static/js/main.27b3e387.js.map",
+    "787.dda381d5.chunk.js.map": "/danfilm/static/js/787.dda381d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50ea425.css",
+    "static/js/main.27b3e387.js"
+  ]
+}
